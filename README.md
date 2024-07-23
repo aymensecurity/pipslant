@@ -1,8 +1,18 @@
 <h1>PipSlant font file for Figlet</h1>
 <br>
+
+```bash
+figlet -f pipslant "PipSlant" --metal
+```
+
 <center><img src="./banner.jpg"></center>
 
 <br>
+
+```bash
+figlet -f pipslant "PipSlant" 
+```
+
 <center><img src="./image.jpg"></center>
 <h3>
 Installtion 
